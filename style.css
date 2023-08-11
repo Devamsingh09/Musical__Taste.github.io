@@ -1,0 +1,53 @@
+form{
+    color: chocolate;
+    align-items: center;
+    
+    
+}
+
+button{
+    color: cadetblue;
+    background-color: rgb(218, 118, 118);
+}
+.buttom{
+    color: rgb(26, 28, 27);
+    background-color:darkblue;
+}
+form{
+    background-color: pink;
+    height: 50%;
+    width: 50%;
+border: blueviolet;
+border-color: blue;
+border-radius: 10px;
+border-width: 4px;
+}
+form p{
+    color: black;
+    text-decoration:  2px 2px black;
+}
+form b
+{
+    color:whitesmoke;
+}
+form h3 b{
+    color: black;
+    font-size: 150%;
+}
+p{
+    font-family:cursive;
+}
+h1{
+    text-shadow: 3px 2px 2px blue;
+}
+.firstv
+{
+align-items: center;
+}
+.secondv{
+    align-items: center;
+    align-content: center;
+}
+title{
+    color: blueviolet;
+}
